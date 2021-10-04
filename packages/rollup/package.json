@@ -2,7 +2,9 @@
   "name": "@svgr/rollup",
   "description": "SVGR Rollup plugin.",
   "version": "6.0.0-alpha.0",
-  "main": "lib/index.js",
+  "main": "./dist/index.js",
+  "exports": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
   "repository": "https://github.com/gregberge/svgr/tree/master/packages/rollup",
   "author": "Greg Bergé <berge.greg@gmail.com>",
   "publishConfig": {

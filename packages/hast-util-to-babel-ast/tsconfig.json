@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "target": "ES2015",
+    "module": "ESNext",
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true
+  },
+  "include": ["src"]
+}
